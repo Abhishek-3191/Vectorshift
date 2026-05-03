@@ -36,7 +36,7 @@ This project is a pipeline builder UI where users can:
 ### 1. Clone repo
 ```bash
 git clone https://github.com/Abhishek-3191/Vectorshift.git
-cd vectorShift-assignment
+cd vectorshift
 ```
 
 ---
